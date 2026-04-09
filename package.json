@@ -1,0 +1,30 @@
+{
+  "name": "@anthropic-ai/claude-code-market-research",
+  "version": "1.0.0",
+  "description": "Claude Code skill for AI-powered market research - Generate comprehensive market research reports with one request",
+  "keywords": [
+    "claude-code",
+    "claude-code-skill",
+    "market-research",
+    "ai",
+    "consumer-insights",
+    "user-research"
+  ],
+  "author": "ResearchMind",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/researchmind/claude-code-market-research.git"
+  },
+  "bugs": {
+    "url": "https://github.com/researchmind/claude-code-market-research/issues"
+  },
+  "homepage": "https://github.com/researchmind/claude-code-market-research#readme",
+  "files": [
+    "skills/",
+    "README.md"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

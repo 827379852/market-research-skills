@@ -1,0 +1,16 @@
+# Development files
+*.log
+.DS_Store
+node_modules/
+
+# Test files
+test/
+*.test.js
+
+# Editor
+.vscode/
+.idea/
+
+# Git
+.git/
+.gitignore
