@@ -1,6 +1,6 @@
 # Claude Code Market Research Skill
 
-[![npm version](https://img.shields.io/npm/v/@anthropic-ai/claude-code-market-research.svg)](https://www.npmjs.com/package/@anthropic-ai/claude-code-market-research)
+[![npm version](https://img.shields.io/npm/v/@lh-ai/claude-code-market-research.svg)](https://www.npmjs.com/package/@lh-ai/claude-code-market-research)
 
 AI-powered market research skill for Claude Code. Generate comprehensive market research reports with a single request.
 
@@ -15,7 +15,7 @@ AI-powered market research skill for Claude Code. Generate comprehensive market 
 ## Installation
 
 ```bash
-npm install -g @anthropic-ai/claude-code-market-research
+npm install -g @lh-ai/claude-code-market-research
 ```
 
 ## Setup
@@ -33,7 +33,7 @@ Add to your `~/.claude/settings.json`:
 ```json
 {
   "enabledPlugins": {
-    "@anthropic-ai/claude-code-market-research": true
+    "@lh-ai/claude-code-market-research": true
   },
   "env": {
     "MARKET_RESEARCH_API_KEY": "your_api_key_here"

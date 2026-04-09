@@ -1,9 +1,5 @@
 # Market Research
 
-AI-powered market research tool that generates comprehensive research reports from a single request.
-
-## 触发条件
-
 TRIGGER when:
 - 用户请求进行市场研究、市场调研、市场分析
 - 用户想要研究消费者态度、消费习惯、购买意愿
