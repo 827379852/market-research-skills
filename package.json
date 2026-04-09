@@ -1,5 +1,5 @@
 {
-  "name": "@lh-ai/claude-code-market-research",
+  "name": "@lh_of_bupt/claude-code-market-research",
   "version": "1.0.0",
   "description": "Claude Code skill for AI-powered market research - Generate comprehensive market research reports with one request",
   "keywords": [
@@ -10,7 +10,7 @@
     "consumer-insights",
     "user-research"
   ],
-  "author": "ResearchMind",
+  "author": "lh",
   "license": "MIT",
   "repository": {
     "type": "git",
